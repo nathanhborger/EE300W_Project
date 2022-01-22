@@ -1,3 +1,4 @@
 # EE300W Project
-![Github_Header_Smaller](https://user-images.githubusercontent.com/75147239/150646301-44f8af95-dd11-4f18-9c12-3b54f5ed317d.png)
+![Github_Header_Changed2](https://user-images.githubusercontent.com/75147239/150646424-98e7ae61-fc3e-4e59-b40d-98732b4d7b90.png)
+
 
